@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "crunchtech",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ead05b66-8b22-4662-bb94-166b5bab2c92",
+      "database_name": "crunchtech"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
